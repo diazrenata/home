@@ -1,0 +1,47 @@
+i g]0;~/Documents/GitHub/home[?1034hRenatas-MacBook-Pro:home renatadiaz$ git add --all
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git commit --m "beginning  site with pkd[Kgdown"
+README.Rmd and README.md should be both staged
+use 'git commit --no-verify' to override this check
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git push[K[K[K[K[K stau[Katus
+git: 'staatus' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git add --all
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .Rbuildignore[m
+	[32mnew file:   .gitignore[m
+	[32mnew file:   CV.md[m
+	[32mnew file:   DESCRIPTION[m
+	[32mnew file:   LICENSE[m
+	[32mnew file:   LICENSE.md[m
+	[32mnew file:   NAMESPACE[m
+	[32mnew file:   R/hello.R[m
+	[32mnew file:   README.md[m
+	[32mnew file:   _pkgdown.yml[m
+	[32mnew file:   docs/CV.html[m
+	[32mnew file:   docs/LICENSE-text.html[m
+	[32mnew file:   docs/LICENSE.html[m
+	[32mnew file:   docs/authors.html[m
+	[32mnew file:   docs/index.html[m
+	[32mnew file:   home.Rproj[m
+	[32mnew file:   man/hello.Rd[m
+
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git commit --m "begin pkg don[Kwn"
+README.Rmd and README.md should be both staged
+use 'git commit --no-verify' to override this check
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git u[Kpush
+error: src refspec refs/heads/master does not match any.
+[31merror: failed to push some refs to 'git@github.com:diazrenata/home.git'
+[m]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ git pull
+Enter passphrase for key '/Users/renatadiaz/.ssh/id_rsa': 
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+]0;~/Documents/GitHub/homeRenatas-MacBook-Pro:home renatadiaz$ [KRenatas-MacBook-Pro:home renatadiaz$ 
