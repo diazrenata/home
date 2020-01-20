@@ -5,12 +5,22 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "CV"
-      href: cv.html
     - text: "Research"
-      href: research.html
+      menu:
+        - text: "SADS"
+          href: sads.html
+        - text: "ISDS"
+          href: isds.html
+        - text: "Energetic compensation"
+          href: energy.html
+        - text: "Temporal dynamics"
+          href: time.html
     - text: "Software & Data"
       href: softwaredata.html
+    - text: "CV"
+      href: cv.html
+    - text: "GitHub"
+      href: https://github.com/diazrenata
 output:
   html_document:
     theme: journal
