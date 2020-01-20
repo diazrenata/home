@@ -1,5 +1,8 @@
 ---
-  title: "My Website"
+  title: "Renata Diaz"
 ---
 
-  Hello, Website!
+Welcome! This is my personal website, currently under construction.
+
+I am a community ecologist and macroecologist. I study distributions of individuals, biomass, and energy use in ecological communities, and how those distributions change over time and following disturbance. I use cross-taxa datasets and computationally intensive methods to look for common patterns that may hint at general processes, and I make extensive use of null models and simulations to disentangle "patterns" from randomness. I believe strongly in the importance of open science, and I work to implement and disseminate best practices for open, replicable, and reproducible computational research. 
+

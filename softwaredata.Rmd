@@ -1,0 +1,18 @@
+---
+  title: "Software and data products"
+---
+
+## R packages
+
+* `portalr`
+* `LDATS`
+* `MATSS`
+* `feasiblesads`
+
+## Data products
+
+* PortalData
+* Re-generation and expansion of Thibault (2011)
+* Simulated size data for MACDB (Supp, 2014)
+
+
