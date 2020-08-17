@@ -7,14 +7,10 @@ navbar:
       href: index.html
     - text: "Research"
       menu:
-        - text: "SADS"
-          href: sads.html
-        - text: "ISDS"
-          href: isds.html
-        - text: "Energetic compensation"
-          href: energy.html
-        - text: "Temporal dynamics"
-          href: time.html
+        - text: "Themes & approach"
+          href: approach.html
+        - text: "Current projects"
+          href: research.html
     - text: "Software & Data"
       href: softwaredata.html
     - text: "CV"
@@ -23,4 +19,4 @@ navbar:
       href: https://github.com/diazrenata
 output:
   html_document:
-    theme: journal
+    theme: spacelab
