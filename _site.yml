@@ -7,13 +7,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research themes"
-      menu:
-        - text: "Macroecology of community dynamics"
-          href: dynamics.html
-        - text: "Statistical constraints on macroecological patterns"
-          href: constraints.html
-        - text: "Open and reproducible research"
-          href: opensci.html
+      href: constraints.html
+    - text: "Software and data"
+      href: opensci.html
     - text: "CV"
       href: cv.html
     - text: "Contact"
