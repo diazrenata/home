@@ -34,10 +34,9 @@ Draw samples from the [feasible set](https://doi.org/10.1111/ele.12154) for a sp
 
 # Replication reports
 
-#### replicate-becs
+#### [replicate-becs](https://github.com/diazrenata/replicate-becs)
 
 Replication of [Ernest (2005): Body size, energy use, and community structure of small mammals](https://doi.org/10.1890/03-3179). In prep, for submission to [ReScience C](https://rescience.github.io/). 
 
-https://github.com/diazrenata/replicate-becs
 
 
