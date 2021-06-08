@@ -13,6 +13,5 @@
 
 * PortalData
 * Re-generation and expansion of Thibault (2011)
-* Simulated size data for MACDB (Supp, 2014)
 
 

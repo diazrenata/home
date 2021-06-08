@@ -1,7 +1,8 @@
 name: "home"
 output_dir: docs
 navbar:
-  title: "Renata Diaz"
+  title: "Renata M. Diaz"
+  subtitle: "PhD Candidate - Interdisciplinary Ecology - University of Florida"
   left:
     - text: "Home"
       href: index.html
@@ -19,4 +20,4 @@ navbar:
       href: https://github.com/diazrenata
 output:
   html_document:
-    theme: spacelab
+    theme: yeti
