@@ -9,11 +9,11 @@ navbar:
     - text: "Research themes"
       menu:
         - text: "Macroecology of community dynamics"
-          href: approach.html
+          href: dynamics.html
         - text: "Statistical constraints on macroecological patterns"
-          href: research.html
+          href: constraints.html
         - text: "Open and reproducible research"
-          href: softwaredata.html
+          href: opensci.html
     - text: "CV"
       href: cv.html
     - text: "Contact"
@@ -22,4 +22,4 @@ navbar:
       href: https://github.com/diazrenata
 output:
   html_document:
-    theme: yeti
+    theme: spacelab

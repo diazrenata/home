@@ -11,11 +11,11 @@
 
 
 
-<title>Software and data products</title>
+<title>Open and reproducible research</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -112,33 +112,33 @@ summary {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 45px;
+  padding-top: 52px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 57px;
+  margin-top: -57px;
 }
 .section h2 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 57px;
+  margin-top: -57px;
 }
 .section h3 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 57px;
+  margin-top: -57px;
 }
 .section h4 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 57px;
+  margin-top: -57px;
 }
 .section h5 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 57px;
+  margin-top: -57px;
 }
 .section h6 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 57px;
+  margin-top: -57px;
 }
 .dropdown-submenu {
   position: relative;
@@ -292,13 +292,13 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="approach.html">Macroecology of community dynamics</a>
+      <a href="dynamics.html">Macroecology of community dynamics</a>
     </li>
     <li>
-      <a href="research.html">Statistical constraints on macroecological patterns</a>
+      <a href="constraints.html">Statistical constraints on macroecological patterns</a>
     </li>
     <li>
-      <a href="softwaredata.html">Open and reproducible research</a>
+      <a href="opensci.html">Open and reproducible research</a>
     </li>
   </ul>
 </li>
@@ -323,26 +323,44 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Software and data products</h1>
+<h1 class="title toc-ignore">Open and reproducible research</h1>
 
 </div>
 
 
-<div id="r-packages" class="section level2">
-<h2>R packages</h2>
-<ul>
-<li><code>portalr</code></li>
-<li><code>LDATS</code></li>
-<li><code>MATSS</code></li>
-<li><code>feasiblesads</code></li>
-</ul>
+<div id="r-packages" class="section level1">
+<h1>R packages</h1>
+<div id="section" class="section level4">
+<h4></h4>
 </div>
-<div id="data-products" class="section level2">
-<h2>Data products</h2>
-<ul>
-<li>PortalData</li>
-<li>Re-generation and expansion of Thibault (2011)</li>
-</ul>
+<div id="portalr" class="section level4">
+<h4><a href="https://weecology.github.io/portalr/">portalr</a></h4>
+<p>Tools to download &amp; access summaries of data from the <a href="https://www.weecology.org/project/portal/">Portal Project</a>.</p>
+</div>
+<div id="ldats" class="section level4">
+<h4><a href="https://weecology.github.io/LDATS/">LDATS</a></h4>
+<p>Combines <strong>L</strong>atent <strong>D</strong>irichlet <strong>A</strong>llocation with Bayesian changepoint-analysis of <strong>t</strong>ime-<strong>s</strong>eries to detect rapid transitions in ecological community composition. Building on the analysis in <a href="https://doi.org/10.1002/ecy.2373">Christensen et al. 2018</a>.</p>
+</div>
+<div id="matss" class="section level4">
+<h4><a href="https://weecology.github.io/MATSS/">MATSS</a></h4>
+<p><strong>M</strong>acroecological <strong>A</strong>nalysis of <strong>T</strong>ime-<strong>s</strong>eries <strong>S</strong>tructure. Load numerous ecological timeseries datasets in a standardized format, and build flexible piplines using <a href="https://books.ropensci.org/drake/"><code>drake</code></a> or similar packages.</p>
+</div>
+<div id="feasiblesads" class="section level4">
+<h4><a href="https://github.com/diazrenata/feasiblesads">feasiblesads</a></h4>
+<p>Draw samples from the <a href="https://doi.org/10.1111/ele.12154">feasible set</a> for a species abundance distribution.</p>
+</div>
+<div id="cvlt" class="section level4">
+<h4><a href="https://diazrenata.github.io/cvlt/">cvlt</a></h4>
+<p>(In dev.) Cross-validation functions to apply <code>LDATS</code> to short, high-dimensional timeseries.</p>
+</div>
+</div>
+<div id="replication-reports" class="section level1">
+<h1>Replication reports</h1>
+<div id="replicate-becs" class="section level4">
+<h4>replicate-becs</h4>
+<p>Replication of <a href="https://doi.org/10.1890/03-3179">Ernest (2005): Body size, energy use, and community structure of small mammals</a>. In prep, for submission to <a href="https://rescience.github.io/">ReScience C</a>.</p>
+<p><a href="https://github.com/diazrenata/replicate-becs" class="uri">https://github.com/diazrenata/replicate-becs</a></p>
+</div>
 </div>
 
 
