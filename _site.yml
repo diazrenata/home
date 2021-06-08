@@ -6,16 +6,18 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "Research themes"
       menu:
-        - text: "Themes & approach"
+        - text: "Macroecology of community dynamics"
           href: approach.html
-        - text: "Current projects"
+        - text: "Statistical constraints on macroecological patterns"
           href: research.html
-    - text: "Software & Data"
-      href: softwaredata.html
+        - text: "Open and reproducible research"
+          href: softwaredata.html
     - text: "CV"
       href: cv.html
+    - text: "Contact"
+      href: contact.html
     - text: "GitHub"
       href: https://github.com/diazrenata
 output:
