@@ -6,7 +6,7 @@
 
 Macroecological patterns - such as "hollow curve" species abundance distributions, or multimodal size distributions - emerge via a combination of ecological processes and potentially very strong statistical constraints. In order to understand the ecological processes that contribute to the patterns observed in nature, it is necessary to disentangle any ecological signal from the patterns that emerge from just the statistical constraint. 
 
-With data from >20,000 ecological communities, we have shown that [empirical species abundance distributions are consistently much more uneven than would be expected given the statistical constraint](https://doi.org/10.1101/2021.01.18.427126). 
+With data from >20,000 ecological communities, we have shown that [empirical species abundance distributions are consistently much more uneven than would be expected given the statistical constraint](https://doi.org/10.1111/ele.13820). 
 
 ## Macroecological dynamics of community structure
 
