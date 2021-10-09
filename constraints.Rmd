@@ -12,7 +12,7 @@ With data from >20,000 ecological communities, we have shown that [empirical spe
 
 I use long-term data on the species composition, size structure, and community-level properties (species richness, total abundance, and total energy use) of ecological communities to study how communities change over time and how changes at smaller levels of organization propagate to the community scale.
 
-Working with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating how environmental change and metacommunity dynamics determine the extent to which community level energy use is resilient to species extinctions. 
+Working with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating [how environmental change and metacommunity dynamics determine the extent to which community level energy use is resilient to species extinctions.](https://doi.org/10.1101/2021.10.01.462799)
 
 At a cross-community, continental scale, I am investigating how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.
 
