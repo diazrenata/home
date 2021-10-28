@@ -31,7 +31,7 @@ Working with a 40-year experimental manipulation of the rodent community near Po
 
 At a cross-community, continental scale, I am investigating how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.
 
-Working in collaboration with members of [Weecology](https://www.weecology.org), I am using machine learning and Bayesian changepoint analysis (implemented in the R packages [LDATS](https://weecology.github.io/LDATS/) and [cvlt](https://diazrenata.github.io/cvlt/)) to explore the frequency and timing of rapid reorganization events in the community composition of North American breeding bird communities. 
+Working in collaboration with members of [Weecology](https://www.weecology.org), I am using machine learning methods for text analysis and Bayesian changepoint analysis (implemented in the R packages [LDATS](https://weecology.github.io/LDATS/) and [cvlt](https://diazrenata.github.io/cvlt/)) to explore the frequency and timing of rapid reorganization events in the community composition of North American breeding bird communities. 
 
 # Open, reproducible research
 
