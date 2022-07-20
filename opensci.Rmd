@@ -6,6 +6,11 @@
 
 #### 
 
+#### [birdsize](https://diazrenata.github.io/birdsize/)
+
+Functions to simulate size measurements for real or imagined bird populations.
+
+
 #### [portalr](https://weecology.github.io/portalr/)
 
 Tools to download & access summaries of data from the [Portal Project](https://www.weecology.org/project/portal/). 

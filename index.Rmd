@@ -3,11 +3,11 @@
 ---
 
 
-I am a community ecologist and macroecologist, currently a PhD candidate with [Weecology](https://www.weecology.org) at the University of Florida.
+I am an ecologist and data scientist. I recently completed my PhD in Interdisciplinary Ecology with the [Weecology lab](https://www.weecology.org) at the University of Florida, and I will be beginning a postdoctoral fellowship with the [EcoEvoMatics lab](https://www.ecoevomatics.org) at the University of Maine in September of 2022.
 
-I study the biological and mathematical processes that generate emergent patterns in biodiversity and community structure, with a particular interest in how perturbations propagate across levels of organization and over time in ecological systems. 
+I study the biological and mathematical processes that generate emergent patterns in biodiversity, with a particular interest in how perturbations propagate across levels of organization and over time in ecological systems. 
 
-I use a variety of approaches, including computationally- and data- intensive synthesis, long-term field experiments, and theoretical frameworks derived from ecology and complexity science. 
+I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. 
 
 I believe strongly in the importance of open science, and I work to implement and disseminate best practices for open, replicable, and reproducible computational research. 
 

@@ -13,6 +13,7 @@
 
 <title>Software and data products</title>
 
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -231,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -280,32 +285,56 @@ $(document).ready(function () {
 <div id="section" class="section level4">
 <h4></h4>
 </div>
+<div id="birdsize" class="section level4">
+<h4><a href="https://diazrenata.github.io/birdsize/">birdsize</a></h4>
+<p>Functions to simulate size measurements for real or imagined bird
+populations.</p>
+</div>
 <div id="portalr" class="section level4">
 <h4><a href="https://weecology.github.io/portalr/">portalr</a></h4>
-<p>Tools to download &amp; access summaries of data from the <a href="https://www.weecology.org/project/portal/">Portal Project</a>.</p>
+<p>Tools to download &amp; access summaries of data from the <a
+href="https://www.weecology.org/project/portal/">Portal Project</a>.</p>
 </div>
 <div id="ldats" class="section level4">
 <h4><a href="https://weecology.github.io/LDATS/">LDATS</a></h4>
-<p>Combines <strong>L</strong>atent <strong>D</strong>irichlet <strong>A</strong>llocation with Bayesian changepoint-analysis of <strong>t</strong>ime-<strong>s</strong>eries to detect rapid transitions in ecological community composition. Building on the analysis in <a href="https://doi.org/10.1002/ecy.2373">Christensen et al. 2018</a>.</p>
+<p>Combines <strong>L</strong>atent <strong>D</strong>irichlet
+<strong>A</strong>llocation with Bayesian changepoint-analysis of
+<strong>t</strong>ime-<strong>s</strong>eries to detect rapid
+transitions in ecological community composition. Building on the
+analysis in <a href="https://doi.org/10.1002/ecy.2373">Christensen et
+al. 2018</a>.</p>
 </div>
 <div id="matss" class="section level4">
 <h4><a href="https://weecology.github.io/MATSS/">MATSS</a></h4>
-<p><strong>M</strong>acroecological <strong>A</strong>nalysis of <strong>T</strong>ime-<strong>s</strong>eries <strong>S</strong>tructure. Load numerous ecological timeseries datasets in a standardized format, and build flexible piplines using <a href="https://books.ropensci.org/drake/"><code>drake</code></a> or similar packages.</p>
+<p><strong>M</strong>acroecological <strong>A</strong>nalysis of
+<strong>T</strong>ime-<strong>s</strong>eries
+<strong>S</strong>tructure. Load numerous ecological timeseries datasets
+in a standardized format, and build flexible piplines using <a
+href="https://books.ropensci.org/drake/"><code>drake</code></a> or
+similar packages.</p>
 </div>
 <div id="feasiblesads" class="section level4">
-<h4><a href="https://github.com/diazrenata/feasiblesads">feasiblesads</a></h4>
-<p>Draw samples from the <a href="https://doi.org/10.1111/ele.12154">feasible set</a> for a species abundance distribution.</p>
+<h4><a
+href="https://github.com/diazrenata/feasiblesads">feasiblesads</a></h4>
+<p>Draw samples from the <a
+href="https://doi.org/10.1111/ele.12154">feasible set</a> for a species
+abundance distribution.</p>
 </div>
 <div id="cvlt" class="section level4">
 <h4><a href="https://diazrenata.github.io/cvlt/">cvlt</a></h4>
-<p>(In dev.) Cross-validation functions to apply <code>LDATS</code> to short, high-dimensional timeseries.</p>
+<p>(In dev.) Cross-validation functions to apply <code>LDATS</code> to
+short, high-dimensional timeseries.</p>
 </div>
 </div>
 <div id="replication-reports" class="section level1">
 <h1>Replication reports</h1>
 <div id="replicate-becs" class="section level4">
-<h4><a href="https://github.com/diazrenata/replicate-becs">replicate-becs</a></h4>
-<p>Replication of <a href="https://doi.org/10.1890/03-3179">Ernest (2005): Body size, energy use, and community structure of small mammals</a>. In prep, for submission to <a href="https://rescience.github.io/">ReScience C</a>.</p>
+<h4><a
+href="https://github.com/diazrenata/replicate-becs">replicate-becs</a></h4>
+<p>Replication of <a href="https://doi.org/10.1890/03-3179">Ernest
+(2005): Body size, energy use, and community structure of small
+mammals</a>. In prep, for submission to <a
+href="https://rescience.github.io/">ReScience C</a>.</p>
 </div>
 </div>
 

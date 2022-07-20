@@ -27,7 +27,7 @@ At the same time, ecological systems are different from more traditional "comple
 
 I use long-term field experiments and synthesis across timeseries to study how change propagates over time and across levels of organization in ecological systems. 
 
-Working with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating [how long-term environmental change and abrupt changes in species composition modulate the extent to which system-level properties are resilient to species extinctions](https://doi.org/10.1101/2021.10.01.462799). 
+Working with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating [how long-term environmental change and abrupt changes in species composition modulate the extent to which system-level properties are resilient to species extinctions](https://doi.org/10.1002/ecy.3709). 
 
 At a cross-community, continental scale, I am investigating how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.
 
