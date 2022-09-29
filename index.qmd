@@ -1,0 +1,35 @@
+---
+title: "Renata M. Diaz"
+about:
+  template: jolla
+  image: files/rmd.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/diaz_renm
+    - icon: github
+      text: Github
+      href: https://github.com/diazrenata
+---
+
+
+I am an ecologist and data scientist. I study the biological and mathematical processes that generate emergent patterns in biodiversity, with a particular interest in how perturbations propagate across levels of organization and over time in ecological systems. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to implement and disseminate best practices for open, replicable, and reproducible computational research.
+
+### Current
+
+**University of Maine - School of Biology and Ecology**
+
+NSF Postdoctoral Fellow | [EcoEvoMatics Lab](https://www.ecoevomatics.org) | September 2022 - present
+
+
+### Education
+
+**University of Florida - School of Natural Resources and Environment**
+
+PhD in Interdisciplinary Ecology | [Weecology Lab](https://www.weecology.org) | August 2017 - August 2022
+
+
+**Princeton University - Dept. of Ecology and Evolutionary Biology**
+
+BA in Ecology and Evolutionary Biology | [Pringle Lab](https://pringle.princeton.edu) | September 2011 - June 2015
+

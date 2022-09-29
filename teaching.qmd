@@ -1,0 +1,12 @@
+---
+  title: "Teaching"
+---
+
+# Current
+
+Currently, I am contributing guest lectures and class activities to the course "Ecological and Evolutionary Theory for a Changing World" at the University of Maine (taught by my postdoctoral advisor, Dr. Andy Rominger). This course interleaves a survey of major theories in ecology and evolution with a critical historical perspective on the history of our field and practical exercises in data analysis and ecological modeling using R and GitHub. 
+
+# Past
+
+In fall 2020, I independently developed and taught lab modules for UF's introductory environmental studies course, EVS2000L. These included a mix of field exercises and tutorials for analyzing spatial and temporal data using R. 
+

@@ -1,0 +1,34 @@
+---
+  title: "Content"
+---
+
+## Media content
+
+(Colony collapse disorder)[https://www.youtube.com/watch?v=Jnv9KL4z0uM] 
+(SNRE student research symposium)[]
+
+(SNRE exit seminar)[https://www.youtube.com/watch?v=L47hk-_jSfI]
+
+## Popular writing
+
+(Portal project blog)[https://portalproject.wordpress.com/2017/12/04/from-field-to-repo-portal-data/]
+
+(Article on independent work at Princeton)[https://www.dailyprincetonian.com/article/2022/05/kenya-panama-independent-research-2022-eeb-semester-in-field-program] 
+
+<!-- (note coverage of my work not written by me) -->
+
+
+## Teaching materials
+
+## Theory course lectures
+
+(Simple metrics of biodiversity)[https://www.youtube.com/watch?v=ApObCRl4HRk]
+
+(GitHub for ecologists)[foo]
+
+(RMarkdown for ecologists)[bar]
+
+### Materials for EVS3000L at UF in fall 2020
+
+https://zenodo.org/badge/latestdoi/287608906
+

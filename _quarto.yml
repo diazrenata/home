@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Renata Diaz, PhD"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research themes"
+        href: research.qmd
+      - text: "Software and data"
+        href: software.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "GitHub"
+        href: https://github.com/diazrenata
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+
