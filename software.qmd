@@ -4,8 +4,6 @@
 
 # R packages
 
-#### 
-
 #### [birdsize](https://diazrenata.github.io/birdsize/)
 
 Functions to simulate size measurements for real or imagined bird populations.

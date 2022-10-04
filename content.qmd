@@ -1,34 +1,31 @@
 ---
   title: "Content"
 ---
+## Talks
 
-## Media content
+[UF SNRE Seminar, February 2022](https://www.youtube.com/watch?v=L47hk-_jSfI)
 
-(Colony collapse disorder)[https://www.youtube.com/watch?v=Jnv9KL4z0uM] 
-(SNRE student research symposium)[]
-
-(SNRE exit seminar)[https://www.youtube.com/watch?v=L47hk-_jSfI]
-
-## Popular writing
-
-(Portal project blog)[https://portalproject.wordpress.com/2017/12/04/from-field-to-repo-portal-data/]
-
-(Article on independent work at Princeton)[https://www.dailyprincetonian.com/article/2022/05/kenya-panama-independent-research-2022-eeb-semester-in-field-program] 
-
-<!-- (note coverage of my work not written by me) -->
-
+[UF SNRE Student Research Symposium, April 2021](https://www.youtube.com/watch?v=U2iTJs3ZIMU)
 
 ## Teaching materials
 
-## Theory course lectures
+#### Lectures for "Ecological and Evolutionary Theory for a Changing World", UMaine Fall 2022:
 
-(Simple metrics of biodiversity)[https://www.youtube.com/watch?v=ApObCRl4HRk]
+[Simple metrics of biodiversity](https://www.youtube.com/watch?v=ApObCRl4HRk)
 
-(GitHub for ecologists)[foo]
+[GitHub for ecologists](https://www.youtube.com/watch?v=wziH4nNIvLM)
 
-(RMarkdown for ecologists)[bar]
+#### Materials for "Environmental Science Lab", UF Fall 2020
 
-### Materials for EVS3000L at UF in fall 2020
+[Zenodo archive](https://doi.org/10.5281/zenodo.7125376)
 
-https://zenodo.org/badge/latestdoi/287608906
 
+## Popular content
+
+[Portal project blog](https://portalproject.wordpress.com/2017/12/04/from-field-to-repo-portal-data/)
+
+[Colony collapse disorder](https://www.youtube.com/watch?v=Jnv9KL4z0uM)
+
+[Article in the Daily Princetonian referencing my independent work](https://www.dailyprincetonian.com/article/2022/05/kenya-panama-independent-research-2022-eeb-semester-in-field-program)
+
+<!-- (note coverage of my work not written by me) -->
