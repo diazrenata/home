@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Past\nIn fall 2020, I independently developed and taught lab modules for UF’s introductory environmental studies course, EVS2000L. These included a mix of field exercises and tutorials for analyzing spatial and temporal data using R."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research themes",
     "section": "",
-    "text": "Perturbations and reorganization in community structure\nI use long-term field experiments and synthesis across timeseries to study how change propagates over time and across levels of organization in ecological systems.\nWorking with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating how long-term environmental change and abrupt changes in species composition modulate the extent to which system-level properties are resilient to species extinctions.\nAt a cross-community, continental scale, I am investigating how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.\nWorking in collaboration with members of Weecology, I am using machine learning methods for text analysis and Bayesian changepoint analysis (implemented in the R packages LDATS and cvlt) to explore the frequency and timing of rapid reorganization events in the community composition of North American breeding bird communities.\n\n\nOpen, reproducible research\nI develop approaches and infrastructure to facilitate open, reproducible access to ecological data and to implement new statistical methods in ecology. See Software and data products for details."
+    "text": "I use long-term field experiments and synthesis across timeseries to study how change propagates over time and across levels of organization in ecological systems.\nWorking with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating how long-term environmental change and abrupt changes in species composition modulate the extent to which system-level properties are resilient to species extinctions.\nAt a cross-community, continental scale, I am investigating how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.\nWorking in collaboration with members of Weecology, I am using machine learning methods for text analysis and Bayesian changepoint analysis (implemented in the R packages LDATS and cvlt) to explore the frequency and timing of rapid reorganization events in the community composition of North American breeding bird communities."
+  },
+  {
+    "objectID": "research.html#statistical-baselines-for-ecological-patterns",
+    "href": "research.html#statistical-baselines-for-ecological-patterns",
+    "title": "Research themes",
+    "section": "Statistical baselines for ecological patterns",
+    "text": "Statistical baselines for ecological patterns\n\n\n\n\n\nCommon patterns in ecology - such as “hollow-curve” species abundance distributions, above - result from a combination of ecological processes and ubiquitous mathematical constraints on the emergent forms for abundance distributions in complex systems in general. Historically, these mathematical constraints have presented an obstacle to using these patterns to understand ecology - but they can also be a powerful tool for detecting and diagnosing strong disruptive processes at play in ecological systems. Deviations between real patterns and their idealized theoretical forms can reflect strong ecological processes. Isolating these deviations allows for stronger inference about ecology than trying to account for the general, mathematically-determined, pattern. Using data from >20,000 ecological communities, and a little bit of combinatorics, we have shown that empirical species abundance distributions are consistently much more uneven than would be expected given the statistical constraint."
+  },
+  {
+    "objectID": "research.html#ecological-communites-as-nontraditional-complex-systems",
+    "href": "research.html#ecological-communites-as-nontraditional-complex-systems",
+    "title": "Research themes",
+    "section": "Ecological communites as nontraditional complex systems",
+    "text": "Ecological communites as nontraditional complex systems\nAt the same time, ecological systems are different from more traditional “complex” systems in physics and statistics, and may not play by the same rules that apply in those disciplines. Ecological systems are often small, with incomplete or imperfect observations of actual organisms, and constrained by their ecological and evolutionary histories. When we borrow theoretical approaches from other contexts, we need to adapt them to work with the idiosyncracies of ecological data. This can teach us about both ecology, and about how complex phenomena come to be in the first place and when and why they break down. Building on initial work with ecological abundance distributions (above), I am exploring how the nature and inferential power of mathematical constraints on abundance distributions varies across systems of different sizes and levels of sampling resolution."
   },
   {
     "objectID": "contact.html",
@@ -14,11 +35,32 @@
     "text": "School of Biology and Ecology\nUniversity of Maine, Orono, ME\ndiaz.renatam@gmail.com\nORCID\nGoogle Scholar\nTwitter"
   },
   {
+    "objectID": "content.html",
+    "href": "content.html",
+    "title": "Content",
+    "section": "",
+    "text": "UF SNRE Seminar, February 2022\nUF SNRE Student Research Symposium, April 2021"
+  },
+  {
+    "objectID": "content.html#teaching-materials",
+    "href": "content.html#teaching-materials",
+    "title": "Content",
+    "section": "Teaching materials",
+    "text": "Teaching materials\n\nLectures for “Ecological and Evolutionary Theory for a Changing World”, UMaine Fall 2022:\nSimple metrics of biodiversity\nGitHub for ecologists\n\n\nMaterials for “Environmental Science Lab”, UF Fall 2020\nZenodo archive"
+  },
+  {
+    "objectID": "content.html#popular-content",
+    "href": "content.html#popular-content",
+    "title": "Content",
+    "section": "Popular content",
+    "text": "Popular content\nPortal project blog\nColony collapse disorder\nArticle in the Daily Princetonian referencing my independent work"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Renata M. Diaz",
     "section": "",
-    "text": "Current\nUniversity of Maine - School of Biology and Ecology\nNSF Postdoctoral Fellow | EcoEvoMatics Lab | September 2022 - present\n\n\nEducation\nUniversity of Florida - School of Natural Resources and Environment\nPhD in Interdisciplinary Ecology | Weecology Lab | August 2017 - August 2022\nPrinceton University - Dept. of Ecology and Evolutionary Biology\nBA in Ecology and Evolutionary Biology | Pringle Lab | September 2011 - June 2015"
+    "text": "Current\nUniversity of Maine - School of Biology and Ecology\nNSF Postdoctoral Fellow | EcoEvoMatics Lab | 2022 - present\n\n\nEducation\nUniversity of Florida - School of Natural Resources and Environment\nPhD in Interdisciplinary Ecology | Weecology Lab | 2017 - 2022\nPrinceton University - Dept. of Ecology and Evolutionary Biology\nBA in Ecology and Evolutionary Biology | Pringle Lab | 2011 - 2015"
   },
   {
     "objectID": "software.html",
