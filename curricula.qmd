@@ -1,0 +1,18 @@
+---
+  title: "Teaching Materials"
+---
+
+_Multidimensional Biodiversity Data Workshop (in development)_
+
+[Curriculum in development for multidimensional biodiversity data workshop](https://role-model.github.io/multidim-biodiv-data/)
+
+_Lectures for "Ecological and Evolutionary Theory for a Changing World", UMaine Fall 2022:_
+
+[Simple metrics of biodiversity](https://www.youtube.com/watch?v=ApObCRl4HRk)
+
+[GitHub for ecologists](https://www.youtube.com/watch?v=wziH4nNIvLM)
+
+_Materials for "Environmental Science Lab", UF Fall 2020_
+
+[Zenodo archive](https://doi.org/10.5281/zenodo.7125376)
+

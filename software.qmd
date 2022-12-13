@@ -34,6 +34,12 @@ Draw samples from the [feasible set](https://doi.org/10.1111/ele.12154) for a sp
 (In dev.) Cross-validation functions to apply `LDATS` to short, high-dimensional timeseries.
 
 
+# Data products
+
+#### [PortalData](https://github.com/weecology/PortalData)
+
+Partially automated system for quality assurance and open-access to regularly-updated data on desert rodents, plants, and weather associated with the [Portal Project](https://portal.weecology.org/). See the [paper](https://doi.org/10.1371/journal.pbio.3000125) describing the workflow and accompanying [data paper](https://doi.org/10.1101/332783) hosted on bioRxiv. 
+
 
 # Replication reports
 

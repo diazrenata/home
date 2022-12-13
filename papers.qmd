@@ -1,0 +1,20 @@
+---
+  title: "Publications"
+  
+  csl: ecology.csl
+  bibliography: refs.bib
+---
+
+## Published
+
+Diaz, R. M., and S. K. M. Ernest. 2022. Maintenance of community function through compensation breaks down over time in a desert rodent community. Ecology 103:e3709. <https://doi.org/10.1002/ecy.3709>
+
+Diaz, R. M., H. Ye, and S. K. M. Ernest. 2021. Empirical abundance distributions are more uneven than expected given their statistical baseline. Ecology Letters 24:2025--2039. <https://doi.org/10.1111/ele.13820>
+
+Yenni, G. M., E. M. Christensen, E. K. Bledsoe, S. R. Supp, R. M. Diaz, E. P. White, and S. K. M. Ernest. 2019. Developing a modern data workflow for regularly updated data. PLOS Biology 17:e3000125. <https://doi.org/10.1371/journal.pbio.3000125>
+
+Christensen, E. M., G. M. Yenni, H. Ye, J. L. Simonis, E. K. Bledsoe, R. M. Diaz, S. D. Taylor, E. P. White, and S. K. M. Ernest. 2019. Portalr: An R package for summarizing and using the Portal Project Data. Journal of Open Source Software 4:1098. <https://doi.org/10.21105/joss.01098>
+
+## In review
+
+Diaz, R. M., and S. K. M. Ernest. In review. Temporal changes in the individual size distribution decouple long-term trends in abundance, biomass, and energy use of North American breeding bird communities. bioRxiv. <https://doi.org/10.1101/2022.11.08.515659>

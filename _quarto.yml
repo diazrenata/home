@@ -8,10 +8,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Research themes"
-        href: research.qmd
+      - text: "Publications"
+        href: papers.qmd
       - text: "Software and data"
         href: software.qmd
+      - text: "Teaching materials"
+        href: curricula.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Contact"

@@ -1,23 +1,11 @@
 ---
-  title: "Content"
+  title: "Talks and Scientific Communication"
 ---
 ## Talks
 
 [UF SNRE Seminar, February 2022](https://www.youtube.com/watch?v=L47hk-_jSfI)
 
 [UF SNRE Student Research Symposium, April 2021](https://www.youtube.com/watch?v=U2iTJs3ZIMU)
-
-## Teaching materials
-
-#### Lectures for "Ecological and Evolutionary Theory for a Changing World", UMaine Fall 2022:
-
-[Simple metrics of biodiversity](https://www.youtube.com/watch?v=ApObCRl4HRk)
-
-[GitHub for ecologists](https://www.youtube.com/watch?v=wziH4nNIvLM)
-
-#### Materials for "Environmental Science Lab", UF Fall 2020
-
-[Zenodo archive](https://doi.org/10.5281/zenodo.7125376)
 
 
 ## Popular content
