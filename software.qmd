@@ -4,24 +4,11 @@
 
 # R packages
 
+### General-use
+
 #### [birdsize](https://diazrenata.github.io/birdsize/)
 
 Functions to simulate size measurements for real or imagined bird populations.
-
-
-#### [portalr](https://weecology.github.io/portalr/)
-
-Tools to download & access summaries of data from the [Portal Project](https://www.weecology.org/project/portal/). 
-
-
-#### [LDATS](https://weecology.github.io/LDATS/)
-
-Combines **L**atent **D**irichlet **A**llocation with Bayesian changepoint-analysis of **t**ime-**s**eries to detect rapid transitions in ecological community composition. Building on the analysis in [Christensen et al. 2018](https://doi.org/10.1002/ecy.2373).
-
-
-#### [MATSS](https://weecology.github.io/MATSS/)
-
-**M**acroecological **A**nalysis of **T**ime-**s**eries **S**tructure. Load numerous ecological timeseries datasets in a standardized format, and build flexible piplines using [`drake`](https://books.ropensci.org/drake/) or similar packages.
 
 
 #### [feasiblesads](https://github.com/diazrenata/feasiblesads)
@@ -29,9 +16,47 @@ Combines **L**atent **D**irichlet **A**llocation with Bayesian changepoint-analy
 Draw samples from the [feasible set](https://doi.org/10.1111/ele.12154) for a species abundance distribution.
 
 
+#### [portalr](https://weecology.github.io/portalr/)
+
+Tools to download & access summaries of data from the [Portal Project](https://www.weecology.org/project/portal/). 
+
+
+#### [MATSS](https://weecology.github.io/MATSS/)
+
+**M**acroecological **A**nalysis of **T**ime-**s**eries **S**tructure. Load numerous ecological timeseries datasets in a standardized format, and build flexible piplines using [`drake`](https://books.ropensci.org/drake/) or similar packages.
+
+#### [LDATS](https://weecology.github.io/LDATS/)
+
+Combines **L**atent **D**irichlet **A**llocation with Bayesian changepoint-analysis of **t**ime-**s**eries to detect rapid transitions in ecological community composition. Building on the analysis in [Christensen et al. 2018](https://doi.org/10.1002/ecy.2373).
+
+
 #### [cvlt](https://diazrenata.github.io/cvlt/)
 
 (In dev.) Cross-validation functions to apply `LDATS` to short, high-dimensional timeseries.
+
+#### [roleR](https://role-model.github.io/roleR)
+
+(In dev.) Implementation of joint ecological and population genetic models in R/RCpp. See the [RoLE Model website](https://role-model.github.io/about).
+
+#### [roleShiny](https://role-model.github.io/roleShiny)
+
+(In dev.) Graphical user interface for the [RoLE Model](https://role-model.github.io/about). 
+
+### Manuscript support
+
+These packages/research compendia are tailored to reproduce the analyses associated with my first-author manuscripts. 
+
+#### [BBSsims](https://diazrenata.github.io/BBSsims)
+
+R package containing functions supporting [Diaz and Ernest](https://doi.org/10.1101/2022.11.08.515659), currently in review.
+
+#### [soar](https://github.com/diazrenata/soar)
+
+R package containing functions supporting the analyses in [Diaz and Ernest (2022)](https://doi.org/10.1002/ecy.3709) in _Ecology_.
+
+#### [scadsanalysis](https://github.com/diazrenata/scadsanalysis)
+
+Research compendium containing the analyses in [Diaz, Ye, and Ernest (2021)](https://doi.org/10.1111/ele.13820) in _Ecology Letters_.
 
 
 # Data products
