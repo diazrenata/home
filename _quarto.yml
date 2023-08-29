@@ -23,7 +23,7 @@ website:
 
 format:
   html:
-    theme: morph
+    theme: pulse
     css: styles.css
     toc: true
 
