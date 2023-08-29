@@ -13,13 +13,19 @@ about:
 ---
 
 
-I am an ecologist & data scientist. I try to understand, and ultimately predict, how ecological systems are responding to perturbations in the Anthropocene. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train new users in best practices for open, reproducible computational research.
+I am an ecologist & data scientist. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train new users in best practices for open, reproducible computational research.
 
 ### Current
 
+**University of Arizona - Communications and Cyber Technology**
+
+Data Scientist | [Data Science Team](https://datascience.cct.arizona.edu) | 2023 - present
+
+### Previous
+
 **University of Maine - School of Biology and Ecology**
 
-NSF Postdoctoral Fellow | [EcoEvoMatics Lab](https://www.ecoevomatics.org) | 2022 - present
+NSF Postdoctoral Fellow | [EcoEvoMatics Lab](https://www.ecoevomatics.org) | 2022 - 2023
 
 
 ### Education
