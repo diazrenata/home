@@ -23,7 +23,7 @@ website:
 
 format:
   html:
-    theme: pulse
+    theme: simplex
     css: styles.css
     toc: true
 

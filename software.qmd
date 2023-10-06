@@ -30,10 +30,6 @@ Tools to download & access summaries of data from the [Portal Project](https://w
 Combines **L**atent **D**irichlet **A**llocation with Bayesian changepoint-analysis of **t**ime-**s**eries to detect rapid transitions in ecological community composition. Building on the analysis in [Christensen et al. 2018](https://doi.org/10.1002/ecy.2373).
 
 
-#### [cvlt](https://diazrenata.github.io/cvlt/)
-
-(In dev.) Cross-validation functions to apply `LDATS` to short, high-dimensional timeseries.
-
 #### [roleR](https://role-model.github.io/roleR)
 
 (In dev.) Implementation of joint ecological and population genetic models in R/RCpp. See the [RoLE Model website](https://role-model.github.io/about).
@@ -46,9 +42,9 @@ Combines **L**atent **D**irichlet **A**llocation with Bayesian changepoint-analy
 
 These packages/research compendia are tailored to reproduce the analyses associated with my first-author manuscripts. 
 
-#### [BBSsims](https://diazrenata.github.io/BBSsims)
+#### [redwing-code](https://github.com/diazrenata/redwing-code)
 
-R package containing functions supporting [Diaz and Ernest](https://doi.org/10.1101/2022.11.08.515659), currently in review.
+Research compendium containing code supporting the manuscript [Diaz and Ernest (accepted, _Global Ecology and Biogeography_).](https://doi.org/10.1101/2022.11.08.515659)
 
 #### [soar](https://github.com/diazrenata/soar)
 
@@ -64,13 +60,6 @@ Research compendium containing the analyses in [Diaz, Ye, and Ernest (2021)](htt
 #### [PortalData](https://github.com/weecology/PortalData)
 
 Partially automated system for quality assurance and open-access to regularly-updated data on desert rodents, plants, and weather associated with the [Portal Project](https://portal.weecology.org/). See the [paper](https://doi.org/10.1371/journal.pbio.3000125) describing the workflow and accompanying [data paper](https://doi.org/10.1101/332783) hosted on bioRxiv. 
-
-
-# Replication reports
-
-#### [replicate-becs](https://github.com/diazrenata/replicate-becs)
-
-Replication of [Ernest (2005): Body size, energy use, and community structure of small mammals](https://doi.org/10.1890/03-3179). In prep, for submission to [ReScience C](https://rescience.github.io/). 
 
 
 

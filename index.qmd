@@ -2,18 +2,18 @@
 title: "Renata M. Diaz"
 about:
   template: jolla
-  image: files/rmd.png
+  image: files/rmd.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/diaz_renm
+    - icon: mastodon
+      text: Mastodon
+      href: https://ecoevo.social/@diaz_renm
     - icon: github
       text: Github
       href: https://github.com/diazrenata
 ---
 
 
-I am an ecologist & data scientist. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train new users in best practices for open, reproducible computational research.
+I am a data scientist, with roots in field and computational ecology. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train practitioners of all skills levels in best practices for open, reproducible computational research.
 
 ### Current
 
