@@ -12,8 +12,8 @@ website:
         href: papers.qmd
       - text: "Software and data"
         href: software.qmd
-      - text: "Teaching materials"
-        href: curricula.qmd
+      - text: "Teaching"
+        href: teaching.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Contact"

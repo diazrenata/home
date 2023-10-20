@@ -15,6 +15,6 @@ Yenni, G. M., E. M. Christensen, E. K. Bledsoe, S. R. Supp, R. M. Diaz, E. P. Wh
 
 Christensen, E. M., G. M. Yenni, H. Ye, J. L. Simonis, E. K. Bledsoe, R. M. Diaz, S. D. Taylor, E. P. White, and S. K. M. Ernest. 2019. Portalr: An R package for summarizing and using the Portal Project Data. Journal of Open Source Software 4:1098. <https://doi.org/10.21105/joss.01098>
 
-## In review
+## In press
 
-Diaz, R. M., and S. K. M. Ernest. In review. Temporal changes in the individual size distribution decouple long-term trends in abundance, biomass, and energy use of North American breeding bird communities. bioRxiv. <https://doi.org/10.1101/2022.11.08.515659>
+Diaz, R. M., and S. K. M. Ernest. In review. Temporal changes in the individual size distribution decouple long-term trends in abundance, biomass, and energy use of North American breeding bird communities. In press, _Global Ecology and Biogeography_. <https://doi.org/10.1101/2022.11.08.515659>

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Renata M. Diaz\nData Science Team | Communications & Cyber Technology\nUniversity of Arizona, Tucson, AZ\nrenatadiaz “at” arizona.edu\nORCID\nGoogle Scholar\nMastodon"
+  },
+  {
     "objectID": "curricula.html",
     "href": "curricula.html",
     "title": "Teaching Materials",
@@ -7,11 +14,18 @@
     "text": "Multidimensional Biodiversity Data Workshop (first offered June 2023)\nMultidimensional biodiversity data - management and analysis\nProcess modeling for ecology and evolution\nLectures for “Ecological and Evolutionary Theory for a Changing World”, UMaine Fall 2022:\nSimple metrics of biodiversity\nGitHub for ecologists\nMaterials for “Environmental Science Lab”, UF Fall 2020\nZenodo archive"
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software and data products",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "R packages\n\nGeneral-use\n\nbirdsize\nFunctions to simulate size measurements for real or imagined bird populations.\n\n\nfeasiblesads\nDraw samples from the feasible set for a species abundance distribution.\n\n\nportalr\nTools to download & access summaries of data from the Portal Project.\n\n\nMATSS\nMacroecological Analysis of Time-series Structure. Load numerous ecological timeseries datasets in a standardized format, and build flexible piplines using drake or similar packages.\n\n\nLDATS\nCombines Latent Dirichlet Allocation with Bayesian changepoint-analysis of time-series to detect rapid transitions in ecological community composition. Building on the analysis in Christensen et al. 2018.\n\n\nroleR\n(In dev.) Implementation of joint ecological and population genetic models in R/RCpp. See the RoLE Model website.\n\n\nroleShiny\n(In dev.) Graphical user interface for the RoLE Model.\n\n\n\nManuscript support\nThese packages/research compendia are tailored to reproduce the analyses associated with my first-author manuscripts.\n\nredwing-code\nResearch compendium containing code supporting the manuscript Diaz and Ernest (accepted, Global Ecology and Biogeography).\n\n\nsoar\nR package containing functions supporting the analyses in Diaz and Ernest (2022) in Ecology.\n\n\nscadsanalysis\nResearch compendium containing the analyses in Diaz, Ye, and Ernest (2021) in Ecology Letters.\n\n\n\n\nData products\n\nPortalData\nPartially automated system for quality assurance and open-access to regularly-updated data on desert rodents, plants, and weather associated with the Portal Project. See the paper describing the workflow and accompanying data paper hosted on bioRxiv."
+    "text": "Here is my CV as of May 2023."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Renata M. Diaz",
+    "section": "",
+    "text": "I am a data scientist, with roots in field and computational ecology. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train practitioners of all skills levels in best practices for open, reproducible computational research.\n\nCurrent\nUniversity of Arizona - Communications and Cyber Technology\nData Scientist | Data Science Team | 2023 - present\n\n\nPrevious\nUniversity of Maine - School of Biology and Ecology\nNSF Postdoctoral Fellow | EcoEvoMatics Lab | 2022 - 2023\n\n\nEducation\nUniversity of Florida - School of Natural Resources and Environment\nPhD in Interdisciplinary Ecology | Weecology Lab | 2017 - 2022\nPrinceton University - Dept. of Ecology and Evolutionary Biology\nBA in Ecology and Evolutionary Biology | Pringle Lab | 2011 - 2015"
   },
   {
     "objectID": "papers.html",
@@ -28,46 +42,39 @@
     "text": "Diaz, R. M., and S. K. M. Ernest. 2022. Maintenance of community function through compensation breaks down over time in a desert rodent community. Ecology 103:e3709. https://doi.org/10.1002/ecy.3709\nDiaz, R. M., H. Ye, and S. K. M. Ernest. 2021. Empirical abundance distributions are more uneven than expected given their statistical baseline. Ecology Letters 24:2025–2039. https://doi.org/10.1111/ele.13820\nYenni, G. M., E. M. Christensen, E. K. Bledsoe, S. R. Supp, R. M. Diaz, E. P. White, and S. K. M. Ernest. 2019. Developing a modern data workflow for regularly updated data. PLOS Biology 17:e3000125. https://doi.org/10.1371/journal.pbio.3000125\nChristensen, E. M., G. M. Yenni, H. Ye, J. L. Simonis, E. K. Bledsoe, R. M. Diaz, S. D. Taylor, E. P. White, and S. K. M. Ernest. 2019. Portalr: An R package for summarizing and using the Portal Project Data. Journal of Open Source Software 4:1098. https://doi.org/10.21105/joss.01098"
   },
   {
-    "objectID": "papers.html#in-review",
-    "href": "papers.html#in-review",
+    "objectID": "papers.html#in-press",
+    "href": "papers.html#in-press",
     "title": "Publications",
-    "section": "In review",
-    "text": "In review\nDiaz, R. M., and S. K. M. Ernest. In review. Temporal changes in the individual size distribution decouple long-term trends in abundance, biomass, and energy use of North American breeding bird communities. bioRxiv. https://doi.org/10.1101/2022.11.08.515659"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Renata M. Diaz\nData Science Team | Communications & Cyber Technology\nUniversity of Arizona, Tucson, AZ\nrenatadiaz “at” arizona.edu\nORCID\nGoogle Scholar\nMastodon"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Current\nCurrently, I am contributing guest lectures and class activities to the course “Ecological and Evolutionary Theory for a Changing World” at the University of Maine (taught by my postdoctoral advisor, Dr. Andy Rominger). This course interleaves a survey of major theories in ecology and evolution with a critical historical perspective on the history of our field and practical exercises in data analysis and ecological modeling using R and GitHub.\n\n\nPast\nIn fall 2020, I independently developed and taught lab modules for UF’s introductory environmental studies course, EVS2000L. These included a mix of field exercises and tutorials for analyzing spatial and temporal data using R."
+    "section": "In press",
+    "text": "In press\nDiaz, R. M., and S. K. M. Ernest. In review. Temporal changes in the individual size distribution decouple long-term trends in abundance, biomass, and energy use of North American breeding bird communities. In press, Global Ecology and Biogeography. https://doi.org/10.1101/2022.11.08.515659"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research themes",
     "section": "",
-    "text": "I use long-term field experiments and synthesis across timeseries to study how change propagates over time and across levels of organization in ecological systems.\nWorking with a 40-year experimental manipulation of the rodent community near Portal, AZ, I am investigating how long-term environmental change and abrupt changes in species composition modulate the extent to which system-level properties are resilient to species extinctions.\nAt a cross-community, continental scale, I am investigating how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.\nWorking in collaboration with members of Weecology, I am using machine learning methods for text analysis and Bayesian changepoint analysis (implemented in the R packages LDATS and cvlt) to explore the frequency and timing of rapid reorganization events in the community composition of North American breeding bird communities."
+    "text": "I use long-term field experiments and synthesis across timeseries to study how change propagates over time and across levels of organization in ecological systems.\nWorking with a 40-year experimental manipulation of the rodent community near Portal, AZ, I have shown how long-term environmental change and abrupt changes in species composition modulate the extent to which system-level properties are resilient to species extinctions.\nAt a cross-community, continental scale, I have investigated how the size structure of North American breeding bird communities has shifted over the past 40 years, and how these shifts modulate trends in total abundance and energy use.\nWorking in collaboration with members of Weecology, I used machine learning methods for text analysis and Bayesian changepoint analysis (implemented in the R packages LDATS and cvlt) to explore the frequency and timing of rapid reorganization events in the community composition of North American breeding bird communities."
   },
   {
     "objectID": "research.html#statistical-baselines-for-ecological-patterns",
     "href": "research.html#statistical-baselines-for-ecological-patterns",
     "title": "Research themes",
     "section": "Statistical baselines for ecological patterns",
-    "text": "Statistical baselines for ecological patterns\n\n\n\n\n\nCommon patterns in ecology - such as “hollow-curve” species abundance distributions, above - result from a combination of ecological processes and ubiquitous mathematical constraints on the emergent forms for abundance distributions in complex systems in general. Historically, these mathematical constraints have presented an obstacle to using these patterns to understand ecology - but they can also be a powerful tool for detecting and diagnosing strong disruptive processes at play in ecological systems. Deviations between real patterns and their idealized theoretical forms can reflect strong ecological processes. Isolating these deviations allows for stronger inference about ecology than trying to account for the general, mathematically-determined, pattern. Using data from &gt;20,000 ecological communities, and a little bit of combinatorics, we have shown that empirical species abundance distributions are consistently much more uneven than would be expected given the statistical constraint."
+    "text": "Statistical baselines for ecological patterns\nCommon patterns in ecology - such as “hollow-curve” species abundance distributions - result from a combination of ecological processes and ubiquitous mathematical constraints on the emergent forms for abundance distributions in complex systems in general. Historically, these mathematical constraints have presented an obstacle to using these patterns to understand ecology - but they can also be a powerful tool for detecting and diagnosing strong disruptive processes at play in ecological systems. Deviations between real patterns and their idealized theoretical forms can reflect strong ecological processes. Isolating these deviations allows for stronger inference about ecology than trying to account for the general, mathematically-determined, pattern. Using data from &gt;20,000 ecological communities, and a little bit of combinatorics, we have shown that empirical species abundance distributions are consistently much more uneven than would be expected given the statistical constraint."
   },
   {
     "objectID": "research.html#ecological-communites-as-nontraditional-complex-systems",
     "href": "research.html#ecological-communites-as-nontraditional-complex-systems",
     "title": "Research themes",
     "section": "Ecological communites as nontraditional complex systems",
-    "text": "Ecological communites as nontraditional complex systems\nAt the same time, ecological systems are different from more traditional “complex” systems in physics and statistics, and may not play by the same rules that apply in those disciplines. Ecological systems are often small, with incomplete or imperfect observations of actual organisms, and constrained by their ecological and evolutionary histories. When we borrow theoretical approaches from other contexts, we need to adapt them to work with the idiosyncracies of ecological data. This can teach us about both ecology, and about how complex phenomena come to be in the first place and when and why they break down. Building on initial work with ecological abundance distributions (above), I am exploring how the nature and inferential power of mathematical constraints on abundance distributions varies across systems of different sizes and levels of sampling resolution."
+    "text": "Ecological communites as nontraditional complex systems\nAt the same time, ecological systems are different from more traditional “complex” systems in physics and statistics, and may not play by the same rules that apply in those disciplines. Ecological systems are often small, with incomplete or imperfect observations of actual organisms, and constrained by their ecological and evolutionary histories. When we borrow theoretical approaches from other contexts, we need to adapt them to work with the idiosyncracies of ecological data. This can teach us about both ecology, and about how complex phenomena come to be in the first place and when and why they break down. Building on initial work with ecological abundance distributions (above), I have studied how the nature and inferential power of mathematical constraints on abundance distributions varies across systems of different sizes and levels of sampling resolution."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software and data products",
+    "section": "",
+    "text": "R packages\n\nGeneral-use\n\nbirdsize\nFunctions to simulate size measurements for real or imagined bird populations.\n\n\nfeasiblesads\nDraw samples from the feasible set for a species abundance distribution.\nTranslated into a python module here!\n\n\nportalr\nTools to download & access summaries of data from the Portal Project.\n\n\nMATSS\nMacroecological Analysis of Time-series Structure. Load numerous ecological timeseries datasets in a standardized format, and build flexible piplines using drake or similar packages.\n\n\nLDATS\nCombines Latent Dirichlet Allocation with Bayesian changepoint-analysis of time-series to detect rapid transitions in ecological community composition. Building on the analysis in Christensen et al. 2018.\n\n\nroleR\n(In dev.) Implementation of joint ecological and population genetic models in R/RCpp. See the RoLE Model website.\n\n\nroleShiny\n(In dev.) Graphical user interface for the RoLE Model.\n\n\n\nManuscript support\nThese packages/research compendia are tailored to reproduce the analyses associated with my first-author manuscripts.\n\nbirds-geb-2023\nResearch compendium containing code supporting the manuscript Diaz and Ernest (accepted, Global Ecology and Biogeography).\n\n\nsoar\nR package containing functions supporting the analyses in Diaz and Ernest (2022) in Ecology.\n\n\nscadsanalysis\nResearch compendium containing the analyses in Diaz, Ye, and Ernest (2021) in Ecology Letters.\n\n\n\n\nData products\n\nPortalData\nPartially automated system for quality assurance and open-access to regularly-updated data on desert rodents, plants, and weather associated with the Portal Project. See the paper describing the workflow and accompanying data paper hosted on bioRxiv."
   },
   {
     "objectID": "talks.html",
@@ -91,17 +98,10 @@
     "text": "Popular content\nPortal project blog\nColony collapse disorder\nArticle in the Daily Princetonian referencing my independent work"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Renata M. Diaz",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "I am a data scientist, with roots in field and computational ecology. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train practitioners of all skills levels in best practices for open, reproducible computational research.\n\nCurrent\nUniversity of Arizona - Communications and Cyber Technology\nData Scientist | Data Science Team | 2023 - present\n\n\nPrevious\nUniversity of Maine - School of Biology and Ecology\nNSF Postdoctoral Fellow | EcoEvoMatics Lab | 2022 - 2023\n\n\nEducation\nUniversity of Florida - School of Natural Resources and Environment\nPhD in Interdisciplinary Ecology | Weecology Lab | 2017 - 2022\nPrinceton University - Dept. of Ecology and Evolutionary Biology\nBA in Ecology and Evolutionary Biology | Pringle Lab | 2011 - 2015"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Here is my CV as of May 2023."
+    "text": "Current\n\nMost recently, I co-taught the Fall 2023 Reproducible Research in R workshop series with the University of Arizona CCT-Data Science team.\n\n\n\nPast\n\nWorking with the RoLE Model Team I co-developed and delivered the inaugural “Multidimensional Biodiversity Data” workshop, offered in conjunction with the 2023 Evolution meeting in Albuquerque, NM.\nI contributed guest lectures and class activities to the course “Ecological and Evolutionary Theory for a Changing World” at the University of Maine (taught by my postdoctoral advisor, Dr. Andy Rominger). This course interleaves a survey of major theories in ecology and evolution with a critical historical perspective on the history of our field and practical exercises in data analysis and ecological modeling using R and GitHub.\nIn fall 2020, I independently developed and taught lab modules for UF’s introductory environmental studies course, EVS2000L. These included a mix of field exercises and tutorials for analyzing spatial and temporal data using R.\n\n\n\nMaterials\nFor examples of my teaching materials, see my Curricula section."
   }
 ]

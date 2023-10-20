@@ -16,6 +16,9 @@ Functions to simulate size measurements for real or imagined bird populations.
 Draw samples from the [feasible set](https://doi.org/10.1111/ele.12154) for a species abundance distribution.
 
 
+[Translated into a python module here!](https://github.com/diazrenata/feasiblesads-py/)
+
+
 #### [portalr](https://weecology.github.io/portalr/)
 
 Tools to download & access summaries of data from the [Portal Project](https://www.weecology.org/project/portal/). 
@@ -42,7 +45,7 @@ Combines **L**atent **D**irichlet **A**llocation with Bayesian changepoint-analy
 
 These packages/research compendia are tailored to reproduce the analyses associated with my first-author manuscripts. 
 
-#### [redwing-code](https://github.com/diazrenata/redwing-code)
+#### [birds-geb-2023](https://github.com/diazrenata/birds-geb-2023)
 
 Research compendium containing code supporting the manuscript [Diaz and Ernest (accepted, _Global Ecology and Biogeography_).](https://doi.org/10.1101/2022.11.08.515659)
 

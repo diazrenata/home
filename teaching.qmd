@@ -4,9 +4,17 @@
 
 # Current
 
-Currently, I am contributing guest lectures and class activities to the course "Ecological and Evolutionary Theory for a Changing World" at the University of Maine (taught by my postdoctoral advisor, Dr. Andy Rominger). This course interleaves a survey of major theories in ecology and evolution with a critical historical perspective on the history of our field and practical exercises in data analysis and ecological modeling using R and GitHub. 
+- Most recently, I co-taught the [Fall 2023 Reproducible Research in R](https://cct-datascience.github.io/repro-data-science) workshop series with the University of Arizona CCT-Data Science team. 
 
 # Past
 
-In fall 2020, I independently developed and taught lab modules for UF's introductory environmental studies course, EVS2000L. These included a mix of field exercises and tutorials for analyzing spatial and temporal data using R. 
+- Working with the [RoLE Model Team](https://github.com/role-model) I co-developed and delivered the inaugural ["Multidimensional Biodiversity Data"](https://role-model.github.io/multidim-biodiv-data) workshop, offered in conjunction with the 2023 Evolution meeting in Albuquerque, NM. 
 
+- I contributed guest lectures and class activities to the course "Ecological and Evolutionary Theory for a Changing World" at the University of Maine (taught by my postdoctoral advisor, Dr. Andy Rominger). This course interleaves a survey of major theories in ecology and evolution with a critical historical perspective on the history of our field and practical exercises in data analysis and ecological modeling using R and GitHub. 
+
+
+- In fall 2020, I independently developed and taught lab modules for UF's introductory environmental studies course, EVS2000L. These included a mix of field exercises and tutorials for analyzing spatial and temporal data using R. 
+
+# Materials
+
+For examples of my teaching materials, see my [Curricula section.](curricula.qmd)
