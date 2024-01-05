@@ -14,7 +14,7 @@ website:
         href: software.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "CV"
+      - text: "Resume"
         href: cv.qmd
       - text: "Contact"
         href: contact.qmd
