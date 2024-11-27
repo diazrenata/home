@@ -1,5 +1,0 @@
----
-title: "CV"
----
-
-[Here is my most recent CV.](files/cv.pdf)
