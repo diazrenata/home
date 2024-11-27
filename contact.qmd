@@ -4,11 +4,9 @@
 
 ### Renata M. Diaz
 
-[Data Science Team | Communications & Cyber Technology](https://datascience.cct.arizona.edu)
+[eBird Status and Trends | Cornell Lab of Ornithology](https://science.ebird.org/en/status-and-trends)
 
-University of Arizona, Tucson, AZ
-
-renatadiaz "at" arizona.edu
+rmdiaz "at" cornell.edu
 
 [ORCID](https://orcid.org/0000-0003-0803-4734)
 

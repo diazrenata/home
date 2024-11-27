@@ -13,15 +13,20 @@ about:
 ---
 
 
-I am a data scientist, with roots in field and computational ecology. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. I believe strongly in the importance of open science, and I work to develop open-source software packages and train practitioners of all skills levels in best practices for open, reproducible computational research.
+I am a data scientist, with roots in field and computational ecology. I use a variety of approaches, including computationally- and data- intensive synthesis, cross-disciplinary statistical methods, and theoretical frameworks derived from ecology and complexity science. In addition to research and development, I work to build open-source software packages and train practitioners of all skill levels in best practices for high-quality, reproducible computational research.
 
 ### Current
 
-**University of Arizona - Communications and Cyber Technology**
+**Cornell Lab of Ornithology - Center for Avian Population Studies**
 
-Data Scientist | [Data Science Team](https://datascience.cct.arizona.edu) | 2023 - present
+Machine Learning Data Engineer | [eBird Status and Trends](https://science.ebird.org/en/status-and-trends) | 2024-present
 
 ### Previous
+
+
+**University of Arizona - Communications and Cyber Technology**
+
+Data Scientist | [Data Science Team](https://datascience.cct.arizona.edu) | 2023 - 2024
 
 **University of Maine - School of Biology and Ecology**
 
