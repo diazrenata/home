@@ -2,4 +2,4 @@
   title: "Resume"
 ---
 
-[Here is my resume as of December 2023.](files/resume.pdf)
+[Here is my resume as of October 2026.](files/resume.pdf)

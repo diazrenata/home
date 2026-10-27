@@ -2,11 +2,11 @@
   title: "Teaching"
 ---
 
-# Current
+- In spring and sumemr 2024 I offered a [Bayesian Learning Group](https://cct-datascience.github.io/bayesian-learning-group/) at the University of Arizona, where we worked through Richard McElreath's _Statistical Rethinking_.
 
-- Most recently, I co-taught the [Fall 2023 Reproducible Research in R](https://cct-datascience.github.io/repro-data-science) workshop series with the University of Arizona CCT-Data Science team. 
+- Many of the workshops I offered through the University of Arizona CCT-Data Science team's "Workshop Wednesdays" series are available on the CCT-Data Science [website.](https://datascience.cct.arizona.edu/workshops) Examples: [big data in R](https://datascience.cct.arizona.edu/events/wrangling-larger-memory-data-r), [reproducible reports in Quarto](https://datascience.cct.arizona.edu/events/219-sharing-your-research-quarto-reports)
 
-# Past
+- In 2023, I co-taught the [Fall 2023 Reproducible Research in R](https://cct-datascience.github.io/repro-data-science) workshop series with the University of Arizona CCT-Data Science team. 
 
 - Working with the [RoLE Model Team](https://github.com/role-model) I co-developed and delivered the inaugural ["Multidimensional Biodiversity Data"](https://role-model.github.io/multidim-biodiv-data) workshop, offered in conjunction with the 2023 Evolution meeting in Albuquerque, NM. 
 
@@ -17,4 +17,4 @@
 
 # Materials
 
-For examples of my teaching materials, see my [Curricula section.](curricula.qmd)
+For more examples of my teaching materials, see my [Curricula section.](curricula.qmd)
