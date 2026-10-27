@@ -5,6 +5,6 @@
   bibliography: refs.bib
 ---
 
-See [my Google Scholar profile](https://scholar.google.com/citations?user=VLMBR7YAAAAJ&hl=en)] or [my ORCID](https://orcid.org/0000-0003-0803-4734) for the most up-to-date list of my papers.
+See [my Google Scholar profile](https://scholar.google.com/citations?user=VLMBR7YAAAAJ&hl=en) or [my ORCID](https://orcid.org/0000-0003-0803-4734) for the most up-to-date list of my papers.
 
 
